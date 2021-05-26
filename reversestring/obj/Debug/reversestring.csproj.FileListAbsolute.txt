@@ -1,0 +1,7 @@
+C:\Users\JDMil\OneDrive\Desktop\Projects\reversestring\bin\Debug\reversestring.exe.config
+C:\Users\JDMil\OneDrive\Desktop\Projects\reversestring\bin\Debug\reversestring.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\reversestring\bin\Debug\reversestring.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\reversestring\obj\Debug\reversestring.csproj.CoreCompileInputs.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\reversestring\obj\Debug\reversestring.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\reversestring\obj\Debug\reversestring.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\reversestring\obj\Debug\reversestring.csprojAssemblyReference.cache
